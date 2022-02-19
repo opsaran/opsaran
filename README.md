@@ -1,7 +1,7 @@
 ## Hi there, I'm OP 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=opsaran&show_icons=true&theme=radical"/>
-
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opsaran&layout=compact"/>
 
 <img align="left" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
 
