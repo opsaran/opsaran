@@ -12,4 +12,9 @@
 # My Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB schema design anti-patterns while modelling data](https://opsaran.hashnode.dev/mongodb-schema-design-anti-patterns-while-modelling-data)
+- [How to optimize your WordPress site](https://opsaran.hashnode.dev/how-to-optimize-your-wordpress-site)
+- [Demystifying useMemo and useCallback hooks](https://opsaran.hashnode.dev/demystifying-usememo-and-usecallback-hooks)
+- [How to optimally use icons and logos in your webpage&lpar;Using Figma&rpar;](https://opsaran.hashnode.dev/how-to-optimally-use-icons-and-logos-in-your-webpage-using-figma)
+- [Why Node.js + Express.js? &lpar;When there are better options&rpar;](https://opsaran.hashnode.dev/why-nodejs-expressjs-when-there-are-better-options)
 <!-- BLOG-POST-LIST:END -->
